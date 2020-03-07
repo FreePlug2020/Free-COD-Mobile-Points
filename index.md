@@ -1,4 +1,12 @@
-<head>
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  </head>
+  <body>
+      
+      <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Free App Mods for iOS and Android</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -181,3 +189,6 @@
     <script type="text/javascript" src="js/tooltipster.bundle.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
 </body>
+  
+  </body>
+</html>
